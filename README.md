@@ -1,7 +1,7 @@
 # Third-Party-API
 
-![alt text](image.jpg)
+![Picture of the calendar application](image.jpg)
 
-[title](https://www.example.com)
+[Deplyed Link](https://renbryant.github.io/Third-Party-API/)
 
 For this project, a calendar application is to be created for the user.

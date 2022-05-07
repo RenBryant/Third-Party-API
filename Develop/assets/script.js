@@ -36,7 +36,7 @@ function colorCode (){
             $(this).addClass('future')
         }
     })
-    //if timeblock > present color accordingly
+    
 }
 
 colorCode()

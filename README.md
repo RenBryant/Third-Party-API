@@ -1,6 +1,6 @@
 # Third-Party-API
 
-![Picture of the calendar application](image.jpg)
+![Picture of the calendar application](./Develop/assets/images/Third-Party-API-Pic.jpg)
 
 [Deplyed Link](https://renbryant.github.io/Third-Party-API/)
 
